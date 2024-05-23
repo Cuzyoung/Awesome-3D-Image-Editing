@@ -2,7 +2,7 @@
 
 
 
-Ziyang Gong and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao)curate this collection aiming to help researchers to know the development of 3D Image Editing.This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
+[Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of 3D Image Editing.This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
 Ziyang Gong📧: gongzy23@sysu.mail2.edu.cn   
 Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 
