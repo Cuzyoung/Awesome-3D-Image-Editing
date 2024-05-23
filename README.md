@@ -3,8 +3,10 @@
 
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
-Here is a curated list of papers about 3D Image Editing. 🔥🔥🔥
+# 🏡Home
+Here is a collection of papers on the topic of 3D Image Editing, which encompasses research on Diffusion models, Neural Radiance Fields (NeRF), and various other methodologies.
 
+## 🌟🌟🌟Updating
 [Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of this area. This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
 
 Ziyang Gong📧: gongzy23@sysu.mail2.edu.cn   
@@ -22,9 +24,9 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2024 | TUM |<p align="center"> LightIt: Illumination Modeling and Control for Diffusion Models |  - |[CVPR 2024](https://arxiv.org/pdf/2403.10615) | [Github](https://peter-kocsis.github.io/LightIt/) |
 | 2023 | Google|<p align="center"> Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields |  - |[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Barron_Zip-NeRF_Anti-Aliased_Grid-Based_Neural_Radiance_Fields_ICCV_2023_paper.pdf) | - |
 | 2023 | UCB|<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions |  - |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |
-| 2023 | UIUC |<p align="center"> View-consistency-aware 3d editing of neural radiance fields |  - |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf) | [Github](https://github.com/Dongjiahua/VICA-NeRF)|
-| 2023 | Samsung |<p align="center"> Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  - |[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Mirzaei_SPIn-NeRF_Multiview_Segmentation_and_Perceptual_Inpainting_With_Neural_Radiance_Fields_CVPR_2023_paper.pdf) | [Github](https://github.com/SamsungLabs/SPIn-NeRF) |
-| 2022 | Google |<p align="center"> Prompt-to-prompt image editing with cross attention control |  - |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
+| 2023 | UIUC |<p align="center">ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields|  - |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf) | [Github](https://github.com/Dongjiahua/VICA-NeRF)|
+| 2023 | Samsung |<p align="center">SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  - |[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Mirzaei_SPIn-NeRF_Multiview_Segmentation_and_Perceptual_Inpainting_With_Neural_Radiance_Fields_CVPR_2023_paper.pdf) | [Github](https://github.com/SamsungLabs/SPIn-NeRF) |
+| 2022 | Google |<p align="center">Prompt-to-Prompt Image Editing with Cross Attention Control |  - |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
 
 
 
