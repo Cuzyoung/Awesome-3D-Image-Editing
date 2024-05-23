@@ -2,11 +2,12 @@
 
 Hi! I'm [Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao). 
 
-[Deblina Bhattacharjee](https://scholar.google.com/citations?user=i5W4i9YAAAAJ&hl=zh-CN&oi=sra) and me curate this collection aiming to help researchers to know the development of 3D Image Editing.This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
+[Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) and me curate this collection aiming to help researchers to know the development of 3D Image Editing.This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
 Ziyang Gong📧: gongzy23@sysu.mail2.edu.cn   
 Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
-<a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=blue&right_color=%23CEE75F"> </a>  
 
+<!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=blue&right_color=%23CEE75F"> </a>   -->
+<a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a> 
 
 
 
