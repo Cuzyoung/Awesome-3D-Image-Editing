@@ -1,11 +1,12 @@
 # Awesome-3D-Image-Editing
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp; 
+<a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"></a>&nbsp; ![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88)
 
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
+Here is a curated list of papers about 3D Image Editing. 🔥🔥🔥
 
-[Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of 3D Image Editing.This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
+[Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of this area. This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
 
 Ziyang Gong📧: gongzy23@sysu.mail2.edu.cn   
 Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
@@ -18,7 +19,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024 | Tel Aviv |<p align="center"> Consolidating Attention Features for Multi-view Image Editing|  - |[Arxiv](https://arxiv.org/pdf/2402.14792) | [Github](https://qnerf-consolidation.github.io/qnerf-consolidation/) |
-| 2024 | MIT |<p align="center"> Alchemist: Parametric Control of Material Properties with Diffusion Models |  - |[TGRS](https://arxiv.org/abs/2309.09003) | [Github](https://www.prafullsharma.net/alchemist/) |
+| 2024 | MIT |<p align="center"> Alchemist: Parametric Control of Material Properties with Diffusion Models |  - |[Arxiv](https://arxiv.org/abs/2309.09003) | [Github](https://www.prafullsharma.net/alchemist/) |
 | 2024 | TUM |<p align="center"> LightIt: Illumination Modeling and Control for Diffusion Models |  - |[CVPR 2024](https://arxiv.org/pdf/2403.10615) | [Github](https://peter-kocsis.github.io/LightIt/) |
 | 2023 | Google|<p align="center"> Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields |  - |[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Barron_Zip-NeRF_Anti-Aliased_Grid-Based_Neural_Radiance_Fields_ICCV_2023_paper.pdf) | - |
 | 2023 | UCB|<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions |  - |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |
