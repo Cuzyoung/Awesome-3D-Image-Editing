@@ -18,8 +18,8 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
   - [3DGS-Based](#3dgs-based)
   - [NeRF-Based](#nerf-based)
   - [Diffusion Model-Based](#diffusion-model-based)
-  - [3DGS with LMMs](#3dgs-with-lmms)
-  - [NeRF with LMMs](#nerf-with-lmms)
+  - [3DGS with LMMs and VFMs](#3dgs-with-lmms-vfms)
+  - [NeRF with LMMs and VFMs](#nerf-with-lmms-vfms)
   <!-- - [NeRF with Vision Foundation Models](#nerf-with-vision-foundation-models) -->
 
 
@@ -47,13 +47,13 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-07-20 | AI2 |<p align="center">OBJECT 3DIT: Language-guided 3D-aware Image Editing|  DiT |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/0b0153a91f827b14e8bfea4e211362f3-Paper-Conference.pdf) | [Page](https://prior.allenai.org/projects/object-edit)|
 | 2022-08-02 | Google |<p align="center">Prompt-to-Prompt Image Editing with Cross Attention Control |  SD |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
 
-# 3DGS with LMMs
+# 3DGS with LMMs and VFMs
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024-04-25 | SYSU+Tencent AI Lab |<p align="center"> TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2401.14828) | [Github](https://github.com/zjy526223908/TIP-Editor) |
 | 2023-11-27 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | 3DGS+SD+BLIP2+Dino+SAM |[CVPR 2024](https://arxiv.org/pdf/2311.16037) | [Github](https://gaussianeditor.github.io/) |
 
-# NeRF with LMMs
+# NeRF with LMMs and VFMs
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024-04-17 | USTC |<p align="center"> InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior | NeRF+SD |[Arxiv](https://arxiv.org/pdf/2404.11613) | [Github](https://johanan528.github.io/Infusion/) |
