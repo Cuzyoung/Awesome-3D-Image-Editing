@@ -14,12 +14,12 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=blue&right_color=%23CEE75F"> </a>   -->
 # Table of Content
 - [Awesome-3D-Image-Editing](#Awesome-3D-Image-Editing)
-  - [NeRF with Diffusion](#neRF-with-diffusion)
-  - [NeRF](#nerf-based)
-  - [Diffusion](#diffusion-model-based)
+  - [NeRF with Diffusion Model](#neRF-with-diffusion-model)
+  - [NeRF-Based](#nerf-based)
+  - [Diffusion Model-Based](#diffusion-model-based)
 
 
-# NeRF with Diffusion
+# NeRF with Diffusion Model
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2023 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) |
