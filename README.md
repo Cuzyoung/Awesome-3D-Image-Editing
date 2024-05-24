@@ -19,7 +19,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
   - [Diffusion Model-Based](#diffusion-model-based)
   - [3DGS with Diffusion Models](#3dgs-with-diffusion-models)
   - [NeRF with Diffusion Models](#nerf-with-diffusion-models)
-  - [NeRF with Vision Foundation Models](#nerf-with-detection-or-segmentation-models)
+  - [NeRF with Vision Foundation Models](#nerf-with-vision-foundation-models)
 
 
 
@@ -59,7 +59,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2022 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |
 
 
-# Nerf with Detection or Segmentation Models
+# Nerf with Vision Foundation Models
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024 | EPFL |<p align="center"> InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360◦ Neural Radiance Fields | NeRF+Detection+SAM |[CVPR 2024](https://arxiv.org/pdf/2305.15094) | [Github](https://ivrl.github.io/InNeRF360/) |
