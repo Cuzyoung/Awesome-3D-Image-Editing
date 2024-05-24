@@ -45,24 +45,25 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-12-05 | MIT |<p align="center"> Alchemist: Parametric Control of Material Properties with Diffusion Models |  SD |[Arxiv](https://arxiv.org/abs/2312.02970) | [Github](https://www.prafullsharma.net/alchemist/) |
 | 2023-08-21 | SJTU|<p align="center">FocalDreamer: Text-Driven 3D Editing via Focal-Fusion Assembly|  SD |[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/download/28113/28230) | [Github](https://github.com/colorful-liyu/focaldreamer)|
 | 2023-07-20 | AI2 |<p align="center">OBJECT 3DIT: Language-guided 3D-aware Image Editing|  DiT |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/0b0153a91f827b14e8bfea4e211362f3-Paper-Conference.pdf) | [Page](https://prior.allenai.org/projects/object-edit)|
-| 2022-08-02 | Google |<p align="center">Prompt-to-Prompt Image Editing with Cross Attention Control |  - |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
+| 2022-08-02 | Google |<p align="center">Prompt-to-Prompt Image Editing with Cross Attention Control |  SD |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
 
 # 3DGS with LMMs
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024-04-25 | SYSU+Tencent AI Lab |<p align="center"> TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2401.14828) | [Github](https://github.com/zjy526223908/TIP-Editor) |
-| 2023-11-27 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | SD+BLIP2+Dino+SAM |[CVPR 2024](https://arxiv.org/pdf/2311.16037) | [Github](https://gaussianeditor.github.io/) |
+| 2023-11-27 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | 3DGS+SD+BLIP2+Dino+SAM |[CVPR 2024](https://arxiv.org/pdf/2311.16037) | [Github](https://gaussianeditor.github.io/) |
 
 # NeRF with LMMs
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024-04-17 | USTC |<p align="center"> InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior | NeRF+SD |[Arxiv](https://arxiv.org/pdf/2404.11613) | [Github](https://johanan528.github.io/Infusion/) |
-| 2024-03-26 | EPFL |<p align="center"> InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360◦ Neural Radiance Fields | NeRF+Detection+SAM |[CVPR 2024](https://arxiv.org/pdf/2305.15094) | [Github](https://ivrl.github.io/InNeRF360/) |
+| 2024-03-26 | EPFL |<p align="center"> InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360◦ Neural Radiance Fields | NeRF+Detection+SAM|[CVPR 2024](https://arxiv.org/pdf/2305.15094) | [Github](https://ivrl.github.io/InNeRF360/) |
+| 2024-03-21 | KAIST |<p align="center"> ED-NERF: EFFICIENT TEXT-GUIDED EDITING OF 3D SCENE WITH LATENT SPACE NERF | NeRF+SD |[ICLR 2024](https://arxiv.org/pdf/2310.02712) | [Github](https://jhq1234.github.io/ed-nerf.github.io/) |
 | 2024-03-08 | WHU |<p align="center">M²DNeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields | NeRF+Dino+CLIP-LSeg |[Arxiv](https://arxiv.org/pdf/2405.05010) | - |
 | 2023-12-26 | Apple |<p align="center"> Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models | IN2N |[Arxiv](https://arxiv.org/pdf/2312.08563) | [Github](https://lsongx.github.io/projects/en2n.html) |
 | 2023-09-19 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) |
 | 2023-06-01 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |
 | 2022-09-29 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |
-
+| 2022-03-02 | CUHK |<p align="center"> CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|  NeRF+CLIP |[Arxiv](https://arxiv.org/pdf/2112.05139) | [Github](https://github.com/cassiePython/CLIPNeRF) |
 
 
