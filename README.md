@@ -23,14 +23,11 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024 | MIT |<p align="center"> Alchemist: Parametric Control of Material Properties with Diffusion Models |  - |[Arxiv](https://arxiv.org/abs/2312.02970) | [Github](https://www.prafullsharma.net/alchemist/) |
-| 2024 | TUM |<p align="center"> LightIt: Illumination Modeling and Control for Diffusion Models |  - |[CVPR 2024](https://arxiv.org/pdf/2403.10615) | [Github](https://peter-kocsis.github.io/LightIt/) |
 | 2023 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects |  - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) |
 | 2023 | Google|<p align="center"> Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields |  - |[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Barron_Zip-NeRF_Anti-Aliased_Grid-Based_Neural_Radiance_Fields_ICCV_2023_paper.pdf) | - |
 | 2023 | UCB|<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions |  - |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |
 | 2023 | SYSU |<p align="center">DreamEditor: Text-Driven 3D Scene Editing with Neural Fields|  - |[SIGGRAPH Asia 2023](https://arxiv.org/pdf/2306.13455) | [Github](https://github.com/zjy526223908/DreamEditor)|
 | 2023 | AI2 |<p align="center">OBJECT 3DIT: Language-guided 3D-aware Image Editing|  - |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/0b0153a91f827b14e8bfea4e211362f3-Paper-Conference.pdf) | [Page](https://prior.allenai.org/projects/object-edit)|
-
-
 | 2022 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |
 
 
@@ -45,4 +42,5 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 # Diffusion
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
+| 2024 | TUM |<p align="center"> LightIt: Illumination Modeling and Control for Diffusion Models |  - |[CVPR 2024](https://arxiv.org/pdf/2403.10615) | [Github](https://peter-kocsis.github.io/LightIt/) |
 | 2022 | Google |<p align="center">Prompt-to-Prompt Image Editing with Cross Attention Control |  - |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
