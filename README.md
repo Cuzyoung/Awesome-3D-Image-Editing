@@ -1,12 +1,12 @@
-# Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F">
-
+<!-- # Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F">
+ -->
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
 # 🏡Home
-Here is a collection of papers on the topic of 3D Image Editing, which encompasses research on Diffusion Models (DM), Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS) , and various other methodologies.
+Here is a collection of papers on the topic of 3D Image Editing, which encompasses research on Diffusion Models (DM), Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS) ,Large Language Models (LLMs), Large Multimodal Models (LMMs), Vision Foundation Models (VFMs), and various other methodologies.
 
 ## 🌟🌟🌟Updating
-[Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of this area. This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
+[2024-5-24] [Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of this area. This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
 
 Ziyang Gong📧: gongzy23@sysu.mail2.edu.cn   
 Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
@@ -19,7 +19,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
   - [Diffusion Model-Based](#diffusion-model-based)
   - [3DGS with Diffusion Models](#3dgs-with-diffusion-models)
   - [NeRF with Diffusion Models](#nerf-with-diffusion-models)
-  - [NeRF with Detection or Segmentation Models](#nerf-with-detection-or-segmentation-models)
+  - [NeRF with Vision Foundation Models](#nerf-with-detection-or-segmentation-models)
 
 
 
