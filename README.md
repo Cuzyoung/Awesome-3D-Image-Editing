@@ -1,4 +1,4 @@
-# Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F">
+<!-- # Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> -->
 
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
@@ -12,19 +12,14 @@ Ziyang Gong📧: gongzy23@sysu.mail2.edu.cn
 Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=blue&right_color=%23CEE75F"> </a>   -->
+
 # Table of Content
 - [Awesome-3D-Image-Editing](#Awesome-3D-Image-Editing)
-  - [NeRF with Diffusion Model](#neRF-with-diffusion-model)
   - [NeRF-Based](#nerf-based)
   - [Diffusion Model-Based](#diffusion-model-based)
+  - [NeRF with Diffusion Models](#nerf-with-diffusion-models)
+  - [NeRF with Detection or Segmentation Models](#nerf-with-detection-or-segmentation-models)
 
-
-# NeRF with Diffusion Model
-| <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
-| :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
-| 2023 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) |
-| 2023 | UCB|<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |
-| 2022 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |
 
 
 # NeRF-Based
@@ -42,5 +37,22 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
 | 2024 | MIT |<p align="center"> Alchemist: Parametric Control of Material Properties with Diffusion Models |  SD |[Arxiv](https://arxiv.org/abs/2312.02970) | [Github](https://www.prafullsharma.net/alchemist/) |
 | 2024 | TUM |<p align="center"> LightIt: Illumination Modeling and Control for Diffusion Models |  SD |[CVPR 2024](https://arxiv.org/pdf/2403.10615) | [Github](https://peter-kocsis.github.io/LightIt/) |
+| 2024 | SJTU|<p align="center">FocalDreamer: Text-Driven 3D Editing via Focal-Fusion Assembly|  SD |[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/download/28113/28230) | [Github](https://github.com/colorful-liyu/focaldreamer)|
 | 2023 | AI2 |<p align="center">OBJECT 3DIT: Language-guided 3D-aware Image Editing|  DiT |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/0b0153a91f827b14e8bfea4e211362f3-Paper-Conference.pdf) | [Page](https://prior.allenai.org/projects/object-edit)|
 | 2022 | Google |<p align="center">Prompt-to-Prompt Image Editing with Cross Attention Control |  - |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
+
+# NeRF with Diffusion Models
+| <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
+| :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
+| 2024-04 | USTC |<p align="center"> InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior | NeRF+SD |[Arxiv](https://arxiv.org/pdf/2404.11613) | [Github](https://johanan528.github.io/Infusion/) |
+| 2023-12 | Apple |<p align="center"> Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models | IN2N |[Arxiv](https://arxiv.org/pdf/2312.08563) | [Github](https://lsongx.github.io/projects/en2n.html) |
+| 2023-11 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | IN2N |[CVPR 2024](https://arxiv.org/pdf/2303.12048) | [Github](https://gaussianeditor.github.io/) |
+| 2023-06 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |
+| 2023-03 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) |
+| 2022 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |
+
+
+# Nerf with Detection or Segmentation Models
+| <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
+| :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
+| 2024 | EPFL |<p align="center"> InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360◦ Neural Radiance Fields | NeRF+Detection+SAM |[CVPR 2024](https://arxiv.org/pdf/2305.15094) | [Github](https://ivrl.github.io/InNeRF360/) |
