@@ -3,7 +3,7 @@
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
 # 🏡Home
-Here is a collection of papers on the topic of 3D Image Editing, which encompasses research on Diffusion models, Neural Radiance Fields (NeRF), and various other methodologies.
+Here is a collection of papers on the topic of 3D Image Editing, which encompasses research on Diffusion Models (DM), Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS) , and various other methodologies.
 
 ## 🌟🌟🌟Updating
 [Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of this area. This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
@@ -17,6 +17,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 - [Awesome-3D-Image-Editing](#Awesome-3D-Image-Editing)
   - [NeRF-Based](#nerf-based)
   - [Diffusion Model-Based](#diffusion-model-based)
+  - [3DGS with Diffusion Models](#3dgs-with-diffusion-models)
   - [NeRF with Diffusion Models](#nerf-with-diffusion-models)
   - [NeRF with Detection or Segmentation Models](#nerf-with-detection-or-segmentation-models)
 
@@ -40,6 +41,12 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2024 | SJTU|<p align="center">FocalDreamer: Text-Driven 3D Editing via Focal-Fusion Assembly|  SD |[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/download/28113/28230) | [Github](https://github.com/colorful-liyu/focaldreamer)|
 | 2023 | AI2 |<p align="center">OBJECT 3DIT: Language-guided 3D-aware Image Editing|  DiT |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/0b0153a91f827b14e8bfea4e211362f3-Paper-Conference.pdf) | [Page](https://prior.allenai.org/projects/object-edit)|
 | 2022 | Google |<p align="center">Prompt-to-Prompt Image Editing with Cross Attention Control |  - |[Arxiv](https://arxiv.org/pdf/2208.01626) | [Github](https://github.com/google/prompt-to-prompt) |
+
+# 3DGS with Diffusion Models
+| <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
+| :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
+| 2024-04 | SYSU+Tencent AI Lab |<p align="center"> TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2401.14828) | [Github](https://github.com/zjy526223908/TIP-Editor) |
+
 
 # NeRF with Diffusion Models
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
