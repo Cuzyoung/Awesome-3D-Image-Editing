@@ -26,7 +26,9 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 # 3DGS-Based
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
-| 2024-04-08 | CAS |<p align="center"> StylizedGS: Controllable Stylizationfor 3D Gaussian Splatting|  - |[Arxiv](https://arxiv.org/pdf/2404.05220) | [Github](https://qnerf-consolidation.github.io/qnerf-consolidation/) |
+| 2024-04-08 | CAS |<p align="center"> StylizedGS: Controllable Stylizationfor 3D Gaussian Splatting|  - |[Arxiv](https://arxiv.org/pdf/2404.05220) |-|
+| 2024-03-06 | CAS |<p align="center"> DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading|  - |[Arxiv](https://arxiv.org/pdf/2404.09412) |-|
+
 # NeRF-Based
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Others |
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:
