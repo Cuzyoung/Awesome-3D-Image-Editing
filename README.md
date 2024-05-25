@@ -27,14 +27,14 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Code | GPU Memory|
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
 | 2024-04-08 | CAS |<p align="center"> StylizedGS: Controllable Stylizationfor 3D Gaussian Splatting|  - |[Arxiv](https://arxiv.org/pdf/2404.05220) |-|-|
-| 2024-03-06 | CAS |<p align="center"> DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading|  - |[Arxiv](https://arxiv.org/pdf/2404.09412) |-|~24GB|
+| 2024-03-06 | CAS |<p align="center"> DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading|  - |[Arxiv](https://arxiv.org/pdf/2404.09412) |-|< 24GB|
 
 # NeRF-Based
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Code | GPU Memory|
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
 | 2024-02-22 | Tel Aviv |<p align="center"> Consolidating Attention Features for Multi-view Image Editing|  - |[Arxiv](https://arxiv.org/pdf/2402.14792) | [Github](https://qnerf-consolidation.github.io/qnerf-consolidation/) |-|
 | 2024-02-01 | UIUC |<p align="center">ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields|  - |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf) | [Github](https://github.com/Dongjiahua/VICA-NeRF)|-|
-| 2023-09-18 | CUHK |<p align="center"> RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes | - |[ACM MM 2023](https://arxiv.org/pdf/2301.07958) | [Github](https://github.com/yuehaowang/RecolorNeRF) |~24GB|
+| 2023-09-18 | CUHK |<p align="center"> RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes | - |[ACM MM 2023](https://arxiv.org/pdf/2301.07958) | [Github](https://github.com/yuehaowang/RecolorNeRF) | < 24GB|
 | 2023-09-07 | SYSU |<p align="center">DreamEditor: Text-Driven 3D Scene Editing with Neural Fields|  - |[SIGGRAPH Asia 2023](https://arxiv.org/pdf/2306.13455) | [Github](https://github.com/zjy526223908/DreamEditor)|-|
 | 2023-04-13 | Google|<p align="center"> Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields |  - |[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Barron_Zip-NeRF_Anti-Aliased_Grid-Based_Neural_Radiance_Fields_ICCV_2023_paper.pdf) | - |-|
 | 2022-12-15 | CUHK|<p align="center"> NeRF-Art: Text-Driven Neural Radiance Fields Stylization|  - |[Arxiv](https://arxiv.org/pdf/2212.08070) | [Github](https://github.com/cassiePython/NeRF-Art) |-|
@@ -53,16 +53,16 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
 | 2024-04-25 | SYSU+Tencent AI Lab |<p align="center"> TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2401.14828) | [Github](https://github.com/zjy526223908/TIP-Editor) |-|
 | 2024-04-17 | USTC |<p align="center"> InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2404.11613) | [Github](https://johanan528.github.io/Infusion/) |-|
-| 2023-11-27 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | 3DGS+SD+BLIP2+Dino+SAM |[CVPR 2024](https://arxiv.org/pdf/2311.16037) | [Github](https://gaussianeditor.github.io/) |~32GB|
+| 2023-11-27 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | 3DGS+SD+BLIP2+Dino+SAM |[CVPR 2024](https://arxiv.org/pdf/2311.16037) | [Github](https://gaussianeditor.github.io/) | < 32GB|
 
 # NeRF with VLMs and VFMs
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Code | GPU Memory|
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
 | 2024-03-26 | EPFL |<p align="center"> InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360◦ Neural Radiance Fields | NeRF+Detection+SAM|[CVPR 2024](https://arxiv.org/pdf/2305.15094) | [Github](https://ivrl.github.io/InNeRF360/) |-|
 | 2024-03-21 | KAIST |<p align="center"> ED-NERF: EFFICIENT TEXT-GUIDED EDITING OF 3D SCENE WITH LATENT SPACE NERF | NeRF+SD |[ICLR 2024](https://arxiv.org/pdf/2310.02712) | [Github](https://jhq1234.github.io/ed-nerf.github.io/) |8GB|
-| 2024-03-08 | WHU |<p align="center">M²DNeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields | NeRF+Dino+CLIP-LSeg |[Arxiv](https://arxiv.org/pdf/2405.05010) | - |24GB|
+| 2024-03-08 | WHU |<p align="center">M²DNeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields | NeRF+Dino+CLIP-LSeg |[Arxiv](https://arxiv.org/pdf/2405.05010) | - | < 24GB|
 | 2023-12-26 | Apple |<p align="center"> Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models | IN2N |[Arxiv](https://arxiv.org/pdf/2312.08563) | [Github](https://lsongx.github.io/projects/en2n.html) |15GB|
-| 2023-09-19 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) |24GB|
+| 2023-09-19 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) | < 24GB|
 | 2023-06-01 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |15GB|
 | 2022-09-29 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |-|
 | 2022-03-02 | CUHK |<p align="center"> CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|  NeRF+CLIP |[Arxiv](https://arxiv.org/pdf/2112.05139) | [Github](https://github.com/cassiePython/CLIPNeRF) |17GB|
