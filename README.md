@@ -18,8 +18,8 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
   - [3DGS-Based](#3dgs-based)
   - [NeRF-Based](#nerf-based)
   - [Diffusion Model-Based](#diffusion-model-based)
-  - [3DGS with VLMs and VFMs](#3dgs-with-vlms-vfms)
-  - [NeRF with VLMs and VFMs](#nerf-with-vlms-vfms)
+  - [3DGS with VLMs and VFMs](#3dgs-with-vlms-and-vfms)
+  - [NeRF with VLMs and VFMs](#nerf-with-vlms-and-vfms)
   <!-- - [NeRF with Vision Foundation Models](#nerf-with-vision-foundation-models) -->
 
 
