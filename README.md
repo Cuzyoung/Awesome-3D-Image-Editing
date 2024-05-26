@@ -5,7 +5,9 @@
 # 🏡Home
 Here is a collection of papers on the topic of 3D Image Editing, which encompasses research on Diffusion Models (DM), Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS) ,Large Language Models (LLMs), Vision Language Models (VLMs), Vision Foundation Models (VFMs), and various other methodologies.
 
-## 🌟🌟🌟Updating
+## 🔥🔥🔥 News
+[2024-5-26] Since the GPU resource is the most important indicator of whether a field is suitable to research, we decide to add GPU memory requirements for collected papers [(Updating)]().
+
 [2024-5-24] [Ziyang Gong](https://scholar.google.com/citations?user=cWip8QgAAAAJ&hl=zh-CN&oi=ao) and [Deblina Bhattacharjee](https://scholar.google.com/citations?user=F3YYEmMAAAAJ&hl=zh-CN&oi=ao) curate this collection aiming to help researchers to know the development of this area. This repo also will be continually updating. If you have any question or advice, please feel free to contact us. 
 
 Ziyang Gong📧: gongzy23@sysu.mail2.edu.cn   
