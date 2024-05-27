@@ -72,5 +72,4 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-06-01 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |15GB|
 | 2022-09-29 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |-|
 | 2022-03-02 | CUHK |<p align="center"> CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|  NeRF+CLIP |[Arxiv](https://arxiv.org/pdf/2112.05139) | [Github](https://github.com/cassiePython/CLIPNeRF) |17GB|
-| 2023-12-04 | UCAS|<p align="center"> Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training|  NeRF+LDM |[Arxiv](https://arxiv.org/abs/2312.01663) | [Github](https://github.com/hrz2000/CustomNeRF?tab=readme-ov-file) |< 24GB|
 
