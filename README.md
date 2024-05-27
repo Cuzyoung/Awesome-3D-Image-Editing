@@ -41,6 +41,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-04-13 | Google|<p align="center"> Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields |  - |[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Barron_Zip-NeRF_Anti-Aliased_Grid-Based_Neural_Radiance_Fields_ICCV_2023_paper.pdf) | - |-|
 | 2022-12-15 | CUHK|<p align="center"> NeRF-Art: Text-Driven Neural Radiance Fields Stylization|  - |[Arxiv](https://arxiv.org/pdf/2212.08070) | [Github](https://github.com/cassiePython/NeRF-Art) |-|
 | 2022-11-22 | Samsung |<p align="center">SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  - |[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Mirzaei_SPIn-NeRF_Multiview_Segmentation_and_Perceptual_Inpainting_With_Neural_Radiance_Fields_CVPR_2023_paper.pdf) | [Github](https://github.com/SamsungLabs/SPIn-NeRF) |-|
+
 # Diffusion Model-Based
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Code | GPU Memory|
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
@@ -68,5 +69,8 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-06-01 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |15GB|
 | 2022-09-29 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |-|
 | 2022-03-02 | CUHK |<p align="center"> CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|  NeRF+CLIP |[Arxiv](https://arxiv.org/pdf/2112.05139) | [Github](https://github.com/cassiePython/CLIPNeRF) |17GB|
+| 2023-12-04 | UCAS|<p align="center"> Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training|  NeRF+LDM |[Arxiv](https://arxiv.org/abs/2312.01663) | [Github](https://github.com/hrz2000/CustomNeRF?tab=readme-ov-file) |< 24GB|
+| 2024-03-27 | Tuebingen U|<p align="center"> SIGNeRF: Scene Integrated Generation for Neural Radiance Fields|  NeRF+ControlNet |[CVPR 2024](https://arxiv.org/abs/2401.01647) | [Github](https://github.com/cgtuebingen/SIGNeRF) |< 24GB|
+| 2024-01-02 | NYU|<p align="center"> Image Sculpting: Precise Object Editing with 3D Geometry Control|  NeRF+SAM+DreamBooth+ControlNet+DDIM+SDXL |[Arxiv](https://arxiv.org/abs/2401.01702) | [Github](https://github.com/vision-x-nyu/image-sculpting) |< 24GB|
 
 
