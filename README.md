@@ -1,4 +1,4 @@
-<!-- # Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> -->
+# Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F">
 
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
@@ -65,13 +65,9 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2024-03-26 | EPFL |<p align="center"> InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360◦ Neural Radiance Fields | NeRF+Detection+SAM|[CVPR 2024](https://arxiv.org/pdf/2305.15094) | [Github](https://ivrl.github.io/InNeRF360/) |-|
 | 2024-03-21 | KAIST |<p align="center"> ED-NERF: EFFICIENT TEXT-GUIDED EDITING OF 3D SCENE WITH LATENT SPACE NERF | NeRF+SD |[ICLR 2024](https://arxiv.org/pdf/2310.02712) | [Github](https://jhq1234.github.io/ed-nerf.github.io/) |8GB|
 | 2024-03-08 | WHU |<p align="center">M²DNeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields | NeRF+Dino+CLIP-LSeg |[Arxiv](https://arxiv.org/pdf/2405.05010) | - | < 24GB|
-<<<<<<< HEAD
-| 2024-01-02 | NYU |<p align="center">Image Sculpting: Precise Object Editing with 3D Geometry Control | NeRF+DM |[CVPR](https://arxiv.org/pdf/2401.01702) | - | |
-=======
 | 2024-01-02 | NYU|<p align="center"> Image Sculpting: Precise Object Editing with 3D Geometry Control|  NeRF+SAM+DreamBooth+ControlNet+DDIM+SDXL |[Arxiv](https://arxiv.org/abs/2401.01702) | [Github](https://github.com/vision-x-nyu/image-sculpting) |< 24GB|
->>>>>>> f05f29a080023f7a55b853f9177a8448c5dc9b2c
 | 2023-12-26 | Apple |<p align="center"> Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models | IN2N |[Arxiv](https://arxiv.org/pdf/2312.08563) | [Github](https://lsongx.github.io/projects/en2n.html) |15GB|
-| 2023-12-04 | UCAS|<p align="center"> Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training|  NeRF+LDM |[Arxiv](https://arxiv.org/abs/2312.01663) | [Github](https://github.com/hrz2000/CustomNeRF?tab=readme-ov-file) |< 24GB|
+| 2023-12-04 | IIE CAS|<p align="center"> Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training|  NeRF+LDM |[Arxiv](https://arxiv.org/abs/2312.01663) | [Github](https://github.com/hrz2000/CustomNeRF?tab=readme-ov-file) |< 24GB|
 | 2023-09-19 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) | < 24GB|
 | 2023-06-01 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |15GB|
 | 2022-09-29 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |-|
