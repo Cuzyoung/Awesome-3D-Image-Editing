@@ -1,4 +1,4 @@
-<!-- # Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> -->
+# Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F">
 
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
@@ -29,7 +29,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Code | GPU Memory|
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
 | 2024-04-08 | UCAS |<p align="center"> StylizedGS: Controllable Stylizationfor 3D Gaussian Splatting|  - |[Arxiv](https://arxiv.org/pdf/2404.05220) |-|-|
-| 2024-03-15 | THU |<p align="center"> Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing|  - |[Arxiv](https://arxiv.org/pdf/2403.10050) |-|-|
+| 2024-03-15 | THU |<p align="center"> Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing|  - |[Arxiv](https://arxiv.org/pdf/2403.10050) |-|< 11GB|
 | 2024-03-06 | UCAS |<p align="center"> DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading|  - |[Arxiv](https://arxiv.org/pdf/2404.09412) |-|< 24GB|
 
 # NeRF-Based
