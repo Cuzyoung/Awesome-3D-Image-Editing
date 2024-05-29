@@ -61,6 +61,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 # NeRF with VLMs and VFMs
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Code | GPU Memory|
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
+| 2024-04-23 | UCL|<p align="center"> ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context|  NeRF+DINO |[I3D'24](https://dl.acm.org/doi/abs/10.1145/3651290) | [Github](https://github.com/BinglunWang/ProteusNeRF?tab=readme-ov-file) |-|
 | 2024-03-27 | Tuebingen U|<p align="center"> SIGNeRF: Scene Integrated Generation for Neural Radiance Fields|  NeRF+ControlNet |[CVPR 2024](https://arxiv.org/abs/2401.01647) | [Github](https://github.com/cgtuebingen/SIGNeRF) |< 24GB|
 | 2024-03-26 | EPFL |<p align="center"> InNeRF360: Text-Guided 3D-Consistent Object Inpainting on 360◦ Neural Radiance Fields | NeRF+Detection+SAM|[CVPR 2024](https://arxiv.org/pdf/2305.15094) | [Github](https://ivrl.github.io/InNeRF360/) |-|
 | 2024-03-21 | KAIST |<p align="center"> ED-NERF: EFFICIENT TEXT-GUIDED EDITING OF 3D SCENE WITH LATENT SPACE NERF | NeRF+SD |[ICLR 2024](https://arxiv.org/pdf/2310.02712) | [Github](https://jhq1234.github.io/ed-nerf.github.io/) |8GB|
@@ -70,6 +71,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-12-04 | IIE CAS|<p align="center"> Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training|  NeRF+LDM |[Arxiv](https://arxiv.org/abs/2312.01663) | [Github](https://github.com/hrz2000/CustomNeRF?tab=readme-ov-file) |< 24GB|
 | 2023-09-19 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) | < 24GB|
 | 2023-06-01 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |15GB|
+| 2023-03-25 | ZJU |<p align="center"> SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field |  NeRF+DINO-ViT |[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_SINE_Semantic-Driven_Image-Based_NeRF_Editing_With_Prior-Guided_Editing_Field_CVPR_2023_paper.pdf) | [Github](https://github.com/zju3dv/SINE) |-|
 | 2022-09-29 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |-|
 | 2022-03-02 | CUHK |<p align="center"> CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|  NeRF+CLIP |[Arxiv](https://arxiv.org/pdf/2112.05139) | [Github](https://github.com/cassiePython/CLIPNeRF) |17GB|
 
