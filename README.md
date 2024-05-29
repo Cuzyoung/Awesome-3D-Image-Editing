@@ -1,4 +1,4 @@
-# Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F">
+<!-- # Awesome-3D-Image-Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;</a>![Static Badge](https://img.shields.io/badge/Maintain-yes!-%23727EB4?logo=yes&logoColor=C7A5C0&logoSize=727EB4&label=Maintain&labelColor=%23925D88) <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> -->
 
 
 <!-- <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=Cuzyoung.Awesome-3D-Image-Editing&left_color=%23DFA3CB&right_color=%23CEE75F"> </a>  -->
@@ -70,6 +70,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-12-04 | IIE CAS|<p align="center"> Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training|  NeRF+LDM |[Arxiv](https://arxiv.org/abs/2312.01663) | [Github](https://github.com/hrz2000/CustomNeRF?tab=readme-ov-file) |< 24GB|
 | 2023-09-19 | Tel Aviv|<p align="center"> Vox-E: Text-guided Voxel Editing of 3D Objects | - |[ICCV 2023](https://arxiv.org/pdf/2303.12048) | [Github](https://github.com/TAU-VAILab/Vox-E?tab=readme-ov-file) | < 24GB|
 | 2023-06-01 | UCB |<p align="center"> Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | NeRF+SD |[ICCV 2023 (Oral)](https://arxiv.org/pdf/2303.12789) | [Github](https://instruct-nerf2nerf.github.io/) |15GB|
+| 2023-04-23 | SJTU |<p align="center"> Segment Anything in 3D with NeRFs | NeRF+SD |[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/525d24400247f884c3419b0b7b1c4829-Paper-Conference.pdf) | [Github](https://github.com/Jumpat/SegmentAnythingin3D) |< 24GB|
 | 2022-09-29 | Google |<p align="center"> DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|  - |[Arxiv](https://arxiv.org/pdf/2209.14988) | [Github](https://dreamfusion3d.github.io/) |-|
 | 2022-03-02 | CUHK |<p align="center"> CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields|  NeRF+CLIP |[Arxiv](https://arxiv.org/pdf/2112.05139) | [Github](https://github.com/cassiePython/CLIPNeRF) |17GB|
 
