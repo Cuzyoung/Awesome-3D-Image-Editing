@@ -40,7 +40,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2023-09-18 | CUHK |<p align="center"> RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes | - |[ACM MM 2023](https://arxiv.org/pdf/2301.07958) | [Github](https://github.com/yuehaowang/RecolorNeRF) | < 24GB|
 | 2023-09-07 | SYSU |<p align="center">DreamEditor: Text-Driven 3D Scene Editing with Neural Fields|  - |[SIGGRAPH Asia 2023](https://arxiv.org/pdf/2306.13455) | [Github](https://github.com/zjy526223908/DreamEditor)|-|
 | 2023-04-13 | Google|<p align="center"> Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields |  - |[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Barron_Zip-NeRF_Anti-Aliased_Grid-Based_Neural_Radiance_Fields_ICCV_2023_paper.pdf) | - |-|
-| 2022-12-15 | CUHK|<p align="center"> NeRF-Art: Text-Driven Neural Radiance Fields Stylization|  - |[Arxiv](https://arxiv.org/pdf/2212.08070) | [Github](https://github.com/cassiePython/NeRF-Art) |-|
+| 2022-12-15 | City U|<p align="center"> NeRF-Art: Text-Driven Neural Radiance Fields Stylization|  - |[Arxiv](https://arxiv.org/pdf/2212.08070) | [Github](https://github.com/cassiePython/NeRF-Art) |-|
 | 2022-11-22 | Samsung |<p align="center">SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  - |[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Mirzaei_SPIn-NeRF_Multiview_Segmentation_and_Perceptual_Inpainting_With_Neural_Radiance_Fields_CVPR_2023_paper.pdf) | [Github](https://github.com/SamsungLabs/SPIn-NeRF) |-|
 
 # Diffusion Model-Based
@@ -58,6 +58,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 | 2024-05-28 | CUHK |<p align="center"> 3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting | 3DGS+SD+CLIP |[Arxiv](https://arxiv.org/pdf/2405.18424) | [Github](https://zqh0253.github.io/3DitScene/) |-|
 | 2024-04-25 | SYSU+Tencent AI Lab |<p align="center"> TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2401.14828) | [Github](https://github.com/zjy526223908/TIP-Editor) |-|
 | 2024-04-17 | USTC |<p align="center"> InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2404.11613) | [Github](https://johanan528.github.io/Infusion/) |-|
+| 2023-12-01 | ETH |<p align="center"> Gaussian Grouping: Segment and Edit Anything in 3D Scenes | 3DGS+SAM |[Arxiv](https://arxiv.org/pdf/2312.00732) | [Github](https://github.com/lkeab/gaussian-grouping) |-|
 | 2023-11-27 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | 3DGS+SD+BLIP2+Dino+SAM |[CVPR 2024](https://arxiv.org/pdf/2311.16037) | [Github](https://gaussianeditor.github.io/) | < 32GB|
 
 # NeRF with VLMs and VFMs
