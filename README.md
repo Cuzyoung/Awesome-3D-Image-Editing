@@ -55,6 +55,7 @@ Deblina Bhattacharjee📧: deblina.bhattacharjee@epfl.ch
 # 3DGS with VLMs and VFMs
 | <p align="center"> Date | Institute (first) |<p align="center">Paper Name | <p align="center"> Architecture |<p align="center"> Publication|<p align="center"> Code | GPU Memory|
 | :-----: | :-------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:| :---------:|:---------:
+| 2024-05-28 | HKCU |<p align="center"> 3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting | 3DGS+SD+CLIP |[Arxiv](https://arxiv.org/pdf/2405.18424) | [Github](https://zqh0253.github.io/3DitScene/) |-|
 | 2024-04-25 | SYSU+Tencent AI Lab |<p align="center"> TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2401.14828) | [Github](https://github.com/zjy526223908/TIP-Editor) |-|
 | 2024-04-17 | USTC |<p align="center"> InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior | 3DGS+SD |[Arxiv](https://arxiv.org/pdf/2404.11613) | [Github](https://johanan528.github.io/Infusion/) |-|
 | 2023-11-27 | Huawei |<p align="center"> GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | 3DGS+SD+BLIP2+Dino+SAM |[CVPR 2024](https://arxiv.org/pdf/2311.16037) | [Github](https://gaussianeditor.github.io/) | < 32GB|
